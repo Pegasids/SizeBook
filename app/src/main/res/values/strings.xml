@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">canopus-SizeBook</string>
+    <string name="name">Name *</string>
+    <string name="selectDate">Select</string>
+    <string name="dateHint">YYYY-MM-DD</string>
+    <string name="neck">Neck dimension in inches</string>
+    <string name="bust">Bust dimension in inches</string>
+    <string name="chest">Chest dimension in inches</string>
+    <string name="waist">Waist dimension in inches</string>
+    <string name="hip">Hip dimension in inches</string>
+    <string name="inseam">Inseam dimension in inches</string>
+    <string name="comment">Comment</string>
+    <string name="save">Save</string>
+    <string name="clear">Clear</string>
+    <string name="cancel">Cancel</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_add_new_record">Add new record</string>
+    <string name="title_activity_record_detail">RecordDetailActivity</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="title_activity_edit_record">Edit record</string>
+    <string name="asterisk_legend">* Indicates required field</string>
+    <string name="dimension_in_inches">Dimension in inches</string>
+</resources>
